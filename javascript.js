@@ -2,22 +2,6 @@ var data = [
     {
         username:"sasi",
         password:"sasi2002"    
-    },
-    {
-        username:"nidha",
-        password:"nidha2001"
-    },
-    {
-        username:"nivedha",
-        password:"nivi2001"
-    },
-    {
-        username:"poornisha",
-        password:"poor2002"
-    },
-	{
-        username:"deepa",
-        password:"deepa2002"
     }
 ]
 function login(){
